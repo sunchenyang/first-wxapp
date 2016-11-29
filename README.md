@@ -1,2 +1,4 @@
 # wxapp
-我的第一个微信小程序
+鎰熻阿寰俊灏忕▼搴忚剼鎵嬫灦锛歨ttps://github.com/MeCKodo/wxapp-cli    
+杩愯
+ npm install
